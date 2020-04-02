@@ -1,0 +1,22 @@
+img.logo {
+    width: auto;
+    height: 24px;
+}
+
+mat-toolbar-row {
+    height: 50px;
+}
+
+.theme-button {
+    position: absolute;
+    right: 8px;
+    top: 7px;
+    min-width: 0px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+mat-divider {
+  background-color: red;
+}

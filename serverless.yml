@@ -1,0 +1,13 @@
+service: gpharma.fr
+
+provider:
+  name: aws
+  region: eu-west-1
+
+plugins:
+  - serverless-finch
+
+custom:
+  client:
+    bucketName: gpharma.fr
+    distributionFolder: dist/browser

@@ -1,0 +1,89 @@
+h2 {
+    margin-top: 12px;
+}
+
+h4 {
+    margin-top: 8px;
+}
+
+.mat-card-avatar {
+    height: 70px;
+    width: 70px;
+}
+.epitech-header-image {
+    background-image: url('../../../assets/img/resume/Epitech.jpg');
+    background-size: cover;
+}
+.cau-header-image {
+    background-image: url('../../../assets/img/resume/cau.png');
+    background-size: cover;
+}
+
+.eluard-header-image {
+  background-image: url('../../../assets/img/resume/eluard.png');
+  background-size: cover;
+}
+.pharmacy-header-image {
+    background-image: url('../../../assets/img/resume/pharmacy.png');
+    background-size: cover;
+}
+
+.arrow-header-image {
+  background-image: url('../../../assets/img/resume/arrow.png');
+  background-size: cover;
+}
+.taker-header-image {
+  background-image: url('../../../assets/img/resume/taker.png');
+  background-size: cover;
+}
+.partech-header-image {
+  background-image: url('../../../assets/img/resume/partech.png');
+  background-size: cover;
+}
+.libheros-header-image {
+  background-image: url('../../../assets/img/resume/libheros.png');
+  background-size: cover;
+}
+.sg-header-image {
+  background-image: url('../../../assets/img/resume/sg.png');
+  background-size: cover;
+}
+.configura-header-image {
+    background-image: url('../../../assets/img/resume/configura.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.dunrite-header-image {
+    background-image: url('../../../assets/img/dunrite/d.png');
+    background-size: cover;
+}
+
+.headshot {
+    background-image: url('../../../assets/img/branding/photo-ngk.png');
+    background-size: cover;
+    height: 145px;
+    width: 145px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.now-playing-card {
+    background: #1a1a1a;
+    color: #1a1a1a;
+    overflow: hidden;
+}
+
+.now-playing-card > mat-card-content > last-fm-scrobbles {
+    margin-top: -12px;
+    margin-right: -61px;
+}
+
+.about-me-card-header {
+   display: flex;
+   flex-direction: row;
+}
+
+.about-me-desc {
+  display: flex;
+  align-self: center;
+}

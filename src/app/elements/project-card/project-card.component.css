@@ -1,0 +1,9 @@
+img.title-img {
+    height: 40px;
+    margin-right: 8px;
+}
+
+mat-card-content {
+    margin-left: 16px;
+    margin-right: 16px;
+}
