@@ -1,0 +1,29 @@
+.footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  line-height: 25px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+img.footer-logo {
+  position: absolute;
+  right: 16px;
+  bottom: 10px;
+  padding: 0;
+  max-width: 30vw;
+}
+
+mat-divider {
+  bottom: 64px;
+  left: 0;
+  right: 0;
+}
+
+
+.footer p {
+  margin: 8px 0;
+  font-weight: 300;
+  font-size: medium;
+}
